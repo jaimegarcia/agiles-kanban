@@ -307,6 +307,11 @@ section.white {
   background: #fff;
   color: #005d69;
 }
+section.white h1,
+section.white h2,
+section.white h3 {
+  color: #808080;
+}
 section.white li {
   color: #000;
 }
@@ -390,6 +395,36 @@ section.nailed {
 }
 section.paradigm {
   background-image: url("../img/paradigm.gif");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+section.visualize {
+  background-image: url("../img/kaban-board.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+section.limite {
+  background-image: url("../img/sticky-notes.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+section.flujo {
+  background-image: url("../img/flow.gif");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+section.politicas {
+  background-image: url("../img/politics.gif");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+section.equipos {
+  background-image: url("../img/team.gif");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
